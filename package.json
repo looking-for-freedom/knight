@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Simple Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/**/*.test.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/looking-for-freedom/node.git"
+  },
+  "keywords": [
+    "atomist",
+    "node"
+  ],
+  "author": "The Hoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/looking-for-freedom/node/issues"
+  },
+  "homepage": "https://github.com/looking-for-freedom/node#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}

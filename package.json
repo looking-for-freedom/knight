@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "knight",
   "version": "1.0.0",
   "description": "Simple Node.js project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/looking-for-freedom/node.git"
+    "url": "git+https://github.com/looking-for-freedom/knight.git"
   },
   "keywords": [
     "atomist",
@@ -17,9 +17,9 @@
   "author": "The Hoff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/looking-for-freedom/node/issues"
+    "url": "https://github.com/looking-for-freedom/knight/issues"
   },
-  "homepage": "https://github.com/looking-for-freedom/node#readme",
+  "homepage": "https://github.com/looking-for-freedom/knight#readme",
   "devDependencies": {
     "mocha": "^6.1.4"
   }

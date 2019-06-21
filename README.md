@@ -1,2 +1,3 @@
-# node
-Simple Node.js project
+# knight
+
+Simple Node.js project.

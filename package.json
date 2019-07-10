@@ -4,6 +4,7 @@
   "description": "Simple Node.js project",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint \"**/*.js\"",
     "test": "mocha \"test/**/*.test.js\""
   },
   "repository": {
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/looking-for-freedom/knight#readme",
   "devDependencies": {
+    "eslint": "^6.0.1",
     "mocha": "^6.1.4"
   }
 }

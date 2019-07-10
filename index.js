@@ -1,2 +1,2 @@
 #! /usr/bin/env node
-console.log("hello, world 5");
+console.log("hello, world 6");
